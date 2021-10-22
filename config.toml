@@ -2,7 +2,7 @@ title = "Revsiting Behaviour Setting Theory"
 baseURL = "https://a-barker-symposium.netlify.app/"
 languageCode = "en-us"
 theme = "ananke"
-resourceDir = "../resources"
+resourceDir = "resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
