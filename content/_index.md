@@ -1,5 +1,5 @@
 ---
-title: "A Barker Symposium"
+title: "Being Where: Revisiting Behavior Setting Theory"
 featured_image: '/images/Roskilde_Cathedral_aerial.jpg'
 description: "25th & 26th April 2022"
 ---
