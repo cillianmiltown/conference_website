@@ -2,7 +2,7 @@
 date: 2021-10-22T10:58:08-04:00
 description: "Background and Context"
 featured_image: "/images/Roskilde_Cathedral_aerial.jpg"
-tags: ["context"]
+slug: context
 title: "Background and Context"
 ---
 
