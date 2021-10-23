@@ -1,5 +1,14 @@
----
-title: "Posts"
-date: 2017-03-02T12:00:00-05:00
----
++++
+title = "Posts"
 
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view = 3
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = ""
+caption = ""
++++
