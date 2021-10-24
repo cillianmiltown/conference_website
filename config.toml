@@ -28,7 +28,7 @@ enableRobotsTXT = true
 [params]
   author = ""
   favicon = ""
-  site_logo = ""
+  # site_logo = "images/logo.jpg"
   description = "The last theme you'll ever need. Maybe."
   facebook = ""
   twitter = "https://twitter.com/BeingWhereSym"
