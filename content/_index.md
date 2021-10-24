@@ -1,7 +1,7 @@
 ---
 title: "Being Where"
 featured_image: '/images/Roskilde_Cathedral_aerial.jpg'
-description: "25th & 26th April 2022"
+description: "Roskilde: 25th & 26th April 2022"
 ---
 
 # Being Where: Revisiting Behavior Setting Theory
