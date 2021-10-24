@@ -48,3 +48,4 @@ enableRobotsTXT = true
   body_classes = "avenir bg-near-white"
   post_title_classes = "avenir bg-near-white"
   post_content_classes  = "avenir bg-near-white"
+  custom_css = ["custom.css"]
