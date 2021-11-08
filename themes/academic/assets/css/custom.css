@@ -1,0 +1,109 @@
+/*#TableOfContents {
+  float: right;
+    position: fixed;
+    width: 300px;
+    left: 8px;
+    top: 80px;
+    padding: 5px;
+}*/
+
+
+#TableOfContents {
+    position: fixed;
+    top: 530px;
+    left: 12px;
+    width: 20%;
+    transform: translateY(-50%);
+    /*background-color: #f6f6f6;*/
+    /*border: solid 1px #c9c9c9;*/
+    padding: 8px;
+  }
+
+
+/* Media Queries */
+  @media (max-width: 1080px) {
+    main {
+      max-width: 100%;
+    }
+
+    #TableOfContents {
+      display: none;
+    }
+  }
+
+
+#TOC {
+    position: fixed;
+    top: 45%;
+    left: 12px;
+    width: 20%;
+    transform: translateY(-50%);
+    /*background-color: #f6f6f6;*/
+    /*border: solid 1px #c9c9c9;*/
+    padding: 8px;
+  }
+
+/* Media Queries */
+  @media (max-width: 1080px) {
+    main {
+      max-width: 100%;
+    }
+
+    #TOC {
+      display: none;
+    }
+  }
+
+
+/*#TableOfContents {
+  position: sticky;
+	top: 2rem;
+	align-self: start;
+}*/
+
+/*
+
+#TableOfContents {
+    float: left;
+    position: sticky;
+    top: 80px;
+    align-self: start;
+}
+
+#TableOfContents {
+    margin-top: 2rem;
+    padding-left: 0;
+    padding-right: 8px;
+    height: 100%;
+    border-left: 1px solid #efefef;
+}
+
+*/
+
+#TableOfContents a:hover,
+#TableOfContents a:focus {
+    color: #666;
+}
+
+/** Poor man's reset **/
+* {
+    box-sizing: border-box;
+}
+
+
+.html, body {
+
+    scroll-padding-top: 100px;
+
+}
+
+
+/*.article-container {
+    display: grid;
+    grid-template-columns: 1fr 15em;
+    max-width: 100em;
+    width: 90%;
+    margin: 0 auto;
+}*/
+
+
