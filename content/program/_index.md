@@ -1,6 +1,10 @@
 ---
 title: Program
-featured_image: "/images/Roskilde_Cathedral_aerial.jpg"
+image:
+  placement: 1
+  caption: "'*Midwest Field Station located on second floor of this old Bank Building*'"
+  focal_point: ''
+  preview_only: false
 description: See below for order of events
 type: page
 ---

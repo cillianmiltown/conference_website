@@ -1,17 +1,15 @@
-+++
-title = "Keynotes"
+---
+date: 2021-10-22T10:58:08-04:00
+description: "List of Keynote Speakers"
+image:
+  placement: 1
+  caption: "'*Midwest Field Station located on second floor of this old Bank Building*'"
+  focal_point: ''
+  preview_only: false
+  slug: speakers
+title: "Keynotes"
+---
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view = 3
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
-+++
 
 
 

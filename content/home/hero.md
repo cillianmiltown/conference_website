@@ -23,7 +23,7 @@ hero_media = ""
   #gradient_end = "#2b94c3"
   
   # Background image.
-   image = "Roskilde_Cathedral_aerial.jpg"  # Name of image in `static/img/`.
+   image = "the_bank4.png"  # Name of image in `static/img/`.
    image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).

@@ -1,10 +1,16 @@
 ---
 date: 2021-10-22T10:58:08-04:00
 description: "Background and Context"
-featured_image: "/images/Roskilde_Cathedral_aerial.jpg"
-slug: context
+image:
+  placement: 1
+  caption: 'Your caption here.'
+  focal_point: ''
+  preview_only: false
 title: "Background and Context"
 ---
+
+<img src = "/img/the_bank2.png", height = "200">
+
 
 # Context of the Proposal
 
@@ -24,3 +30,5 @@ Looking back, we will focus on the particular work of the Field Station team, th
 Looking forward we will explore how new research work is extending behaviour setting theory, and putting it to work in new contexts, with new tools, integrated with new theoretical and philosophical approaches. Building on the insights of the historical work, and including the early career researchers with on-going projects, this section of the conference will examine how the Midwest work can help shape our use of new technologies and measurement techniques, and inform our analysis of difficult empirical questions. Particular attention will be paid to recent developments of embodied, embedded, and ecological work, and how these theoretical advancements can both refine and learn from behaviour settings theory.
 
 The conference will form the basis for a new international research network centred around behaviour settings research, linking senior scholars, mid-career academics, and early career researchers.
+
+

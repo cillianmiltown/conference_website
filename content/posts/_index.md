@@ -1,16 +1,14 @@
-+++
-title = "Posts"
+---
+date: 2021-10-22T10:58:08-04:00
+description: "Background and Context"
+image:
+  placement: 1
+  caption: "'*Midwest Field Station located on second floor of this old Bank Building*'"
+  focal_point: ''
+  preview_only: false
+  slug: posts
+title: "Updates and Recent Posts"
+---
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view = 3
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = "/img/Roskilde_Cathedral_aerial.jpg"
-caption = ""
-+++
 
 All Posts below: 
