@@ -48,7 +48,7 @@ Dr. Louise Barrett was trained in ecology and anthropology at University College
 
 Sofie Pedersen, PhD, is associate professor at the Department of People and Technology at Roskilde University, Denmark. Her work is centered in the intersection of, and aims at bridging, ecological psychology, and cultural-historical activity theory, and she is particularly interested in the meaning of the environment in relation to how developmental dynamics unfold in various institutional settings, such as high school or social-psychiatric settings. 
 
-
+<br><br><br><br>
 
 # Ludger van Dijk
 
