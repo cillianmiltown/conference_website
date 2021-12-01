@@ -21,7 +21,7 @@ email_form = 0
 
 
 
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xyylabzr" method="post">
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xyylabzr" method="POST">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label>
     <input type="text" name="name" id="full-name" placeholder=" " required="">
@@ -141,8 +141,5 @@ email_form = 0
 }
 </style>
 <!-- modify this form HTML and place wherever you want your form (the below only existst to keep the formatting of the above...)  -->
-<form
-  action="https://formspree.io/f/xyylabzr"
-  method="POST"
->
+<form>
 </form>
