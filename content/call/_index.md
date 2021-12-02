@@ -9,6 +9,6 @@ type: page
 ---
 
 
-[<font color = "#0066ff">Click here</font>](https://events.ruc.dk/imt-research-symposium-being-where/conference) to go directly to the conference manager website, or register below: 
+[<font color = "#0066ff">Click here</font>](https://events.ruc.dk/imt-research-symposium-being-where/conference) to go directly to the conference manager website, or register below by clicking "Sign up" or "Upload an abstract"
 
  <iframe height=1000px width="100%" src="https://events.ruc.dk/imt-research-symposium-being-where/conference" title="conference manager"></iframe> 

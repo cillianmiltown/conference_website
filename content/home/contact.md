@@ -29,7 +29,7 @@ email_form = 0
     <input type="email" name="_replyto" id="email-address" placeholder=" " required="">
     <label for="message">Message</label>
     <textarea rows="5" name="message" id="message" placeholder=" " required=""></textarea>
-    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+    <input type="hidden" name="_subject" id="email-subject" value="Query from Being Where website">
   </fieldset>
   <input type="submit" value="Submit">
 </form><style>/* reset */
