@@ -48,7 +48,7 @@ We have received a grant from the Carlsberg Foundation ([<font color = "#0066ff"
 
 ## Registration
 
-Deadline for registration: January 17th, 2022
+Deadline for registration: February 25th, 2022
 
 ## Organizers
 
