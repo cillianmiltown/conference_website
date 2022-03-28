@@ -8,6 +8,7 @@ image:
   preview_only: false
   slug: posts
 title: "Updates and Recent Posts"
+share: false
 ---
 
 

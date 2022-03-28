@@ -8,6 +8,7 @@ image:
   preview_only: false
   slug: speakers
 title: "Keynotes"
+share: false
 ---
 
 

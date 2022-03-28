@@ -33,6 +33,13 @@
    url = "/program/"
    weight = 50
 
+
+ [[main]]
+   name = "Practial Information"
+   url = "/practical_information/"
+   weight = 60
+
+
 #[[main]]
 #  name = "Publications"
 #  url = "#publications"

@@ -6,6 +6,7 @@ image:
   caption: "'*Midwest Field Station located on second floor of this old Bank Building*'"
   focal_point: ''
   preview_only: false
+share: false
 ---
 
 We are delighted to invite for a 2-day symposium on the work of Barker, Wright, and the Midwest Psychological Field Station, at Roskilde University, Denmark.
@@ -48,7 +49,10 @@ We have received a grant from the Carlsberg Foundation ([<font color = "#0066ff"
 
 ## Registration
 
-Deadline for registration: February 25th, 2022
+Abstract submission is closed. Registration will remain open until April 19th 2022.
+
+[<font color = "#0066ff">Click here to Register.</font>](https://events.ruc.dk/imt-research-symposium-being-where/conference)
+
 
 ## Organizers
 
