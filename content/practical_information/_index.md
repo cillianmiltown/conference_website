@@ -22,4 +22,15 @@ Other options include: [<font color = "#0066ff">the Savoy Hotel</font>](https://
 
 
 
-<img src = "/img/Google-Maps.jpg", width = "300">
+<img src = "/img/Google-Maps.jpg", width = "200">
+
+
+# Travelling to the Venue
+
+Please note the actual symposium will take place in Roskilde which is a 25min train ride from Copenhagen
+
+- Link to the Danish Rail Services website is [<font color = "#0066ff">here</font>](https://www.dsb.dk/en/)
+
+- The destination stop in Roskilde is Trekroner, which will bring you to within a 10 min walk from to campus
+
+- Depending on what hotel you are staying, you  either catch a train from Nørreport station or København H.
