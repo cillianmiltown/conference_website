@@ -17,15 +17,16 @@ Below is the full program:
 
 | | | | Day 1 |  | |
 |---|-----|------|------------|------------|-----|
-| 0900 | - | 0930 | Registration |   | |
+| 0900 | - | 0920 | Registration |   | |
+| 0920 | - | 0930 | Opening Remarks | | |
 | 0930 | - | 1030 | Keynote 1 | Harry Heft  | |
-| 1030 | - | 1100 | Coffee |  | |
-| 1100 | - | 1200 | Talks 1 | |  *Critically examining the principles* | 
+| 1030 | - | 1050 | Coffee |  | |
+| 1050 | - | 1145 | Talks 1 | |  *Critically examining the principles* | 
 | | | | | Ed Baggs | Do We Perceive Behavior Settings? |
 | | | | | Miranda Lucas | Behavior Settings on a Continuum |
 | | | | | Marek McGann  | Orienting Psychological Science |
-| 1200 | - | 1300 | Introductions and Themed Discussions 1 |  | |
-| 1300 | - | 1400 | Lunch |  | |
+| 1145 | - | 1230 | Introductions and Themed Discussions 1 |  | |
+| 1230 | - | 1400 | Lunch |  | |
 | 1400 | - | 1500 | Keynote 2 | Jytte Bang & Sofie Pedersen | |
 | 1500 | - | 1600 | Talks 2 | | *Broadening our perspective* | | 
 | | | | | Gui Sanchez de Oliviera | The Lab as a Behavior Setting |
@@ -44,14 +45,13 @@ Below is the full program:
 | | | | Day 2 |  | |
 |---|-----|------|------------|------------|-----|
 | 0930 | - | 1030 | Keynote 3 | Louise Barrett  | |
-| 1030 | - | 1100 | Coffee |  | |
-| 1100 | - | 1200 | Talks 3 | |  *Beyond Places* | 
-| | | | | Miguel Segundo-Ortin | Situating Self-Control |
+| 1030 | - | 1050 | Coffee |  | |
+| 1050 | - | 1130 | Talks 3 | |  *Beyond Places* | 
+| | | | | Miguel Segundo-Ortin | Agency in Behavior Settings: A Mindshaping Perspective on Ecological Psychology |
 | | | | | Jelle Bruineberg | Digitally-Mediated Behavior Settings |
 | | | | | Konrad Zielinski  | Revisiting research on laryngectomy: Situated interactivity analysis |
-| | | | | Crista Avram  | The Behaviour Settings of Art-Making |
-| 1200 | - | 1300 | Themed Discussions 3 |  | |
-| 1300 | - | 1400 | Lunch |  | |
+| 1130 | - | 1230 | Themed Discussions 3 |  | |
+| 1230 | - | 1400 | Lunch |  | |
 | 1400 | - | 1500 | Keynote 4 | Ludger van Dijk | |
 | 1500 | - | 1600 | Themed Discussions 4 | | | | 
 | 1600 | - | 1630 | Coffee |  | |
