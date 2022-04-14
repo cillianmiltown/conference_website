@@ -19,7 +19,8 @@ Below is the full program:
 |---|-----|------|------------|------------|-----|
 | 0900 | - | 0920 | Registration |   | |
 | 0920 | - | 0930 | Opening Remarks | | |
-| 0930 | - | 1030 | Keynote 1 | Harry Heft  | |
+| 0930 | - | 1030 | Keynote 1 | Harry Heft  | What Are Behavior Settings? Foundational Issues and a
+Reconsideration of Barker’s Behavior Setting Theory 40 years later. |
 | 1030 | - | 1050 | Coffee |  | |
 | 1050 | - | 1145 | Talks 1 | |  *Critically examining the principles* | 
 | | | | | Ed Baggs | Do We Perceive Behavior Settings? |
@@ -52,7 +53,7 @@ Below is the full program:
 | | | | | Konrad Zielinski  | Revisiting research on laryngectomy: Situated interactivity analysis |
 | 1130 | - | 1230 | Themed Discussions 3 |  | |
 | 1230 | - | 1400 | Lunch |  | |
-| 1400 | - | 1500 | Keynote 4 | Ludger van Dijk | |
+| 1400 | - | 1500 | Keynote 4 | Ludger van Dijk | Direct Imagination. |
 | 1500 | - | 1600 | Themed Discussions 4 | | | | 
 | 1600 | - | 1630 | Coffee |  | |
 | 1630 | - | 1730 | General discussion and conclusion |  | |
