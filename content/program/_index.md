@@ -19,8 +19,7 @@ Below is the full program:
 |---|-----|------|------------|------------|-----|
 | 0900 | - | 0920 | Registration |   | |
 | 0920 | - | 0930 | Opening Remarks | | |
-| 0930 | - | 1030 | Keynote 1 | Harry Heft  | What Are Behavior Settings? Foundational Issues and a
-Reconsideration of Barker’s Behavior Setting Theory 40 years later. |
+| 0930 | - | 1030 | Keynote 1 | Harry Heft  | What Are Behavior Settings? Foundational Issues and a Reconsideration of Barker’s Behavior Setting Theory 40 years later. |
 | 1030 | - | 1050 | Coffee |  | |
 | 1050 | - | 1145 | Talks 1 | |  *Critically examining the principles* | 
 | | | | | Ed Baggs | Do We Perceive Behavior Settings? |
