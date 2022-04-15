@@ -44,7 +44,7 @@ Below is the full program:
 
 | | | | Day 2 |  | |
 |---|-----|------|------------|------------|-----|
-| 0930 | - | 1030 | Keynote 3 | Louise Barrett  | |
+| 0930 | - | 1030 | Keynote 3 | Louise Barrett  |  Extended Explorations in Ecological Psychology |
 | 1030 | - | 1050 | Coffee |  | |
 | 1050 | - | 1130 | Talks 3 | |  *Beyond Places* | 
 | | | | | Miguel Segundo-Ortin | Agency in Behavior Settings: A Mindshaping Perspective on Ecological Psychology |
