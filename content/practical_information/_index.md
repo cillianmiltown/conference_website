@@ -34,3 +34,26 @@ Please note the actual symposium will take place in Roskilde which is a 25min tr
 - The destination stop in Roskilde is Trekroner, which will bring you to within a 10 min walk from to campus
 
 - Depending on what hotel you are staying, you  either catch a train from Nørreport station or København H.
+
+
+
+## Transportation (more detail):
+
+- Roskilde university is located outside Roskilde, so you will need to commute by train to get there. The tickets for RUC  are pricy when you don’t have travelling cards (like most Danes do) (76kr/10 Euros)  for a single ticket, as you need 7 zones. I recommend that you purchase the City Pass Large, as this includes the zones you need for Trekroner (the RUC-station): [https://dinoffentligetransport.dk/citypass](https://dinoffentligetransport.dk/citypass) (plus it saves you the trouble of having to buy single tickets every time).
+- When you arrive at Copenhagen Airport  it is easy to get  to the city center: if you are staying at Ibsens Hotel, you take the metro to Nørreport station. If you are staying near the Central Station, you take the commuter train (direction Helsingør) and get  off  at the central station. Both options require a 3 zone ticket (or a valid City pass, but  it  might not be worth it to  start your city pass just to make this journey?)
+- This is the page to see train schedules: [https://rejseplanen.dk/webapp/?language=en_EN#!P|TP!histId|0!histKey|H622073](https://rejseplanen.dk/webapp/?language=en_EN#!P|TP!histId|0!histKey|H622073)
+     
+### Monday morning:
+- Meeting in the lobby of Ibsens Hotel at 7.50, to accompany you by train to RUC. It is a 6-7 min walk to the station, so I suggest we leave at 8.00 (just in  case someone needs to purchase tickets). We need to catch the train from Nørreport station at  8.16 (bound for Roskilde).
+- For those of you joining at the central station , the train will depart from here at 8.19, most likely from platform 8  (but this can always change).
+- We all get off at Trekroner station (the stop before Roskilde). From there it is  a 12 min walk to campus.
+- For those of you arriving by car, the required parking license has been emailed to you (you can also get it on campus Monday morning).
+     
+- Venue: the seminar will take place in building 03 in RUC. In Auditorium C (it is located on the corridor that faces buildings 42, 44 and 46). You can find the map here: [https://ruc.dk/find-vej-til-og-paa-roskilde-universitet](https://ruc.dk/find-vej-til-og-paa-roskilde-universitet)
+
+ 
+
+### Dinner Monday evening:
+
+The restaurant is Madklubben Vesterbro [https://madklubben.dk/en/restaurants/madklubben-vesterbro/menu/](https://madklubben.dk/en/restaurants/madklubben-vesterbro/menu/) which is conveniently located in walking distance to the central station (and also acceptable walking distance to  Ibsens hotel afterwards). We have three tables booked. It is possible for everyone to handle their own orders  and preferences, and we hope this will work for everyone (as the dinner is not included in the participant fee).
+

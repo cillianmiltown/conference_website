@@ -19,7 +19,7 @@ Below is the full program:
 |---|-----|------|------------|------------|-----|
 | 0900 | - | 0920 | Registration |   | |
 | 0920 | - | 0930 | Opening Remarks | | |
-| 0930 | - | 1030 | Keynote 1 | Jytte Bang & Sofie Pedersen | |
+| 0930 | - | 1030 | Keynote 1 | Jytte Bang & Sofie Pedersen | Revisiting the work of Roger Barker and the Midwest psychological field station |
 | 1030 | - | 1050 | Coffee |  | |
 | 1050 | - | 1145 | Talks 1 | |  *Critically examining the principles* | 
 | | | | | Ed Baggs | Do We Perceive Behavior Settings? |
