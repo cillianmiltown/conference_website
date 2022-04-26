@@ -10,11 +10,6 @@ type: page
 share: false
 ---
 
-# Joining Online
-
-To join the Zoom sessing for this afternoon's Keynote follow this link:<br>
-[https://us02web.zoom.us/j/82387448508?pwd=YU5qTXRYNEM0elZob25PMmFGWkUzQT09](https://us02web.zoom.us/j/82387448508?pwd=YU5qTXRYNEM0elZob25PMmFGWkUzQT09)
-
 # Below is the full program:
 
 
