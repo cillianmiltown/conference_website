@@ -143,6 +143,9 @@ superuser = true
  
 
 
-On the 25th and 26th of April 2022, Roskilde University, will host a Symposium on the work of Roger Barker.
+On the 25th and 26th of April 2022, Roskilde University, hosted a Symposium on the work of Roger Barker.
+
+<img src = "/img/everyone.jpg">
+
 
 (Part funded by [<font color = "#0066ff">Carlsbergfondet</font>](https://www.carlsbergfondet.dk/da))
